@@ -18,7 +18,7 @@ I am an experienced **Operations Analyst ** transitioning into Data Analytics. I
 *   **The Goal:** A pharmacy chain was losing money due to expired medication. I built a system to track risk.
 *   **My Solution:** Created a Power BI dashboard with a "Loss Risk" indicator and Staff Heatmap.
 *   **Tools:** Power BI, DAX, Excel.
-*   [🔗 **Click Here to View Project**]()
+*   [🔗 **Click Here to View Project**](https://github.com/Nouramabrouk/Pharma-Sales-Analysis)
 
 ###  ⚙️ GearX: Business Data Structure (Conceptual)
 *   **The Goal:** Designing a relational database for a retail management system.
@@ -29,4 +29,4 @@ I am an experienced **Operations Analyst ** transitioning into Data Analytics. I
 
 ## 📫 Let's Connect
 *   [💼 My LinkedIn](www.linkedin.com/in/noura-mabrouk) 
-*   📧 Email: Nouramabrouk0@gmail.com
+*   📧 Email: [Nouramabrouk0@gmail.com](mailto:Nouramabrouk0@gmail.com)
