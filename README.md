@@ -6,10 +6,10 @@ I am an experienced **Operations Analyst ** transitioning into Data Analytics. I
 ---
 
 ## 🛠️ My Tech Stack
-*   **Data Visualization:** Microsoft Power BI 📊 | Tableau 📉 | Excel Dashboards 📗
-*   **Analysis:** Python (Pandas) 🐍 | Power Query | DAX
-*   **Business Logic:** Workflow Optimization | Data Modeling | Inventory Management
-
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ---
 
 ## 📂 Featured Projects 
@@ -19,6 +19,7 @@ I am an experienced **Operations Analyst ** transitioning into Data Analytics. I
 *   **My Solution:** Created a Power BI dashboard with a "Loss Risk" indicator and Staff Heatmap.
 *   **Tools:** Power BI, DAX, Excel.
 *   [🔗 **Click Here to View Project**](https://github.com/Nouramabrouk/Pharma-Sales-Analysis)
+*   
 
 ###  ⚙️ GearX: Business Data Structure (Conceptual)
 *   **The Goal:** Designing a relational database for a retail management system.
@@ -26,7 +27,21 @@ I am an experienced **Operations Analyst ** transitioning into Data Analytics. I
 *   *Project files coming soon...*
 
 ---
+[![Download CV](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)]( https://drive.google.com/file/d/1pozPFZiDsYyBOL_zLQUxNhho6Ral2aWd/view?usp=drive_link)
+
 
 ## 📫 Let's Connect
 *   [💼 My LinkedIn](www.linkedin.com/in/noura-mabrouk) 
 *   📧 Email: [Nouramabrouk0@gmail.com](mailto:Nouramabrouk0@gmail.com)
+
+*   ---
+### 📊 My GitHub Stats
+![Noura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nouramabrouk&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nouramabrouk&layout=compact&theme=radical)
+
+
+### 👀 Profile Views
+![Visitor Count](https://profile-counter.glitch.me/Nouramabrouk/count.svg)
+
+
+
