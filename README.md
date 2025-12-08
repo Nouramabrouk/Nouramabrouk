@@ -39,9 +39,6 @@ I am an experienced **Operations Analyst ** transitioning into Data Analytics. I
 ![Noura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nouramabrouk&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nouramabrouk&layout=compact&theme=radical)
 
-
 ### 👀 Profile Views
-![Visitor Count](https://profile-counter.glitch.me/Nouramabrouk/count.svg)
-
-
+![Visitor Count](https://komarev.com/ghpvc/?username=Nouramabrouk&color=blueviolet)
 
