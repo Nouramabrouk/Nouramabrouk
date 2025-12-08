@@ -36,8 +36,14 @@ I am an experienced **Operations Analyst ** transitioning into Data Analytics. I
 
 *   ---
 ### 📊 My GitHub Stats
-![Noura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nouramabrouk&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nouramabrouk&layout=compact&theme=radical)
+<!-- استبدلت السيرفر الأصلي بسيرفر بديل عشان يشتغل معاكِ فوراً -->
+![Noura's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Nouramabrouk&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nouramabrouk&layout=compact&theme=radical)
+
+### 🔥 GitHub Streak
+<!-- دي أداة إضافية شغالة دايماً ومبتفصلش بتوضح التزامك اليومي -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nouramabrouk&theme=radical)
+
 
 ### 👀 Profile Views
 ![Visitor Count](https://komarev.com/ghpvc/?username=Nouramabrouk&color=blueviolet)
