@@ -30,7 +30,7 @@ I am an experienced **Operations Analyst ** transitioning into Data Analytics. I
 * **The Goal:** Analyze over 260,000 sales records to improve financial performance, understand customer behavior, and optimize store operations.
 * **My Solution:** Designed 4 interactive dashboards revealing $1.76M in revenue (60% margin) and identifying key profit drivers across products and store formats.
 * **Tools:** Tableau Desktop, MS Excel, Data Modeling.
-🔗 [Click Here to View Project](Food-Mart-Sales-Analysis-Tableau)
+*   [🔗 **Click Here to View Project**](https://github.com/Nouramabrouk/Food-Mart-Sales-Analysis-Tableau)
 
 ###  ⚙️ GearX: Business Data Structure (Conceptual)
 *   **The Goal:** Designing a relational database for a retail management system.
