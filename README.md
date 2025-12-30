@@ -32,6 +32,8 @@ I am an experienced **Operations Analyst ** transitioning into Data Analytics. I
 * **Tools:** Tableau Desktop, MS Excel, Data Modeling.
 *   [🔗 **Click Here to View Project**](https://github.com/Nouramabrouk/Food-Mart-Sales-Analysis-Tableau)
 
+*  ---
+  
 ###  ⚙️ GearX: Business Data Structure (Conceptual)
 *   **The Goal:** Designing a relational database for a retail management system.
 *   **Concept:** Mapping relationships between Sales, Inventory, and Suppliers.
