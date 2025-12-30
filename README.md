@@ -19,7 +19,18 @@ I am an experienced **Operations Analyst ** transitioning into Data Analytics. I
 *   **My Solution:** Created a Power BI dashboard with a "Loss Risk" indicator and Staff Heatmap.
 *   **Tools:** Power BI, DAX, Excel.
 *   [🔗 **Click Here to View Project**](https://github.com/Nouramabrouk/Pharma-Sales-Analysis)
-*   
+
+*  ---
+
+### 🛒 Food Mart Business Analysis (Tableau)
+<img width="1920" height="970" alt="1" src="https://github.com/user-attachments/assets/141db737-43db-4551-9956-de6a7189c049" />
+
+![Food Mart Dashboard]()
+
+* **The Goal:** Analyze over 260,000 sales records to improve financial performance, understand customer behavior, and optimize store operations.
+* **My Solution:** Designed 4 interactive dashboards revealing $1.76M in revenue (60% margin) and identifying key profit drivers across products and store formats.
+* **Tools:** Tableau Desktop, MS Excel, Data Modeling.
+* 🔗 [Click Here to View Project](View on Tableau Public) 
 
 ###  ⚙️ GearX: Business Data Structure (Conceptual)
 *   **The Goal:** Designing a relational database for a retail management system.
