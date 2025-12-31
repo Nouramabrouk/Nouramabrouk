@@ -23,7 +23,7 @@ I am an experienced **Operations Analyst ** transitioning into Data Analytics. I
 *   **Tools:** Power BI, DAX, Excel.
 *   [🔗 **Click Here to View Project**](https://github.com/Nouramabrouk/Pharma-Sales-Analysis)
 
-*  ---
+  ---
 
 ### 🛒 Food Mart Business Analysis (Tableau)
 <img width="1920" height="970" alt="1" src="https://github.com/user-attachments/assets/141db737-43db-4551-9956-de6a7189c049" />
@@ -33,7 +33,21 @@ I am an experienced **Operations Analyst ** transitioning into Data Analytics. I
 * **Tools:** Tableau Desktop, MS Excel, Data Modeling.
 *   [🔗 **Click Here to View Project**](https://github.com/Nouramabrouk/Food-Mart-Sales-Analysis-Tableau)
 
-*  ---
+---
+
+### 👥 HR Analytics: Employee Retention & Performance
+
+<img width="991" height="767" alt="Performance   Compensation" src="https://github.com/user-attachments/assets/f53ca109-2079-440e-b368-f71d40686b7a" />
+
+
+* **The Goal:** Help organizations understand employee attrition, satisfaction, and performance trends by translating 16 key business requirements (KPIs) into actionable insights.
+* **My Solution:** Designed a comprehensive Power BI dashboard analyzing Retention, Work-Life Balance, and Compensation using advanced visuals like Heatmaps and Waterfall charts.
+* **Tools:** Power BI, Power Query, DAX.
+
+*  [🔗 **Click Here to View Project**](https://github.com/Nouramabrouk/HR-Analytics-Power-BI-Dashboard/tree/main))
+
+
+  ---
   
 ###  ⚙️ GearX: Business Data Structure (Conceptual)
 *   **The Goal:** Designing a relational database for a retail management system.
