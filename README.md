@@ -15,7 +15,8 @@ I am an experienced **Operations Analyst ** transitioning into Data Analytics. I
 ## 📂 Featured Projects 
 
 ###  💊 PharmaPulse: Pharmacy Sales & Inventory Analysis
-<img width="1063" height="775" alt="1" src="https://github.com/user-attachments/assets/dc275970-6fa7-4960-87e4-2f46887bc507" />
+<img width="1063" height="705" alt="Untitled" src="https://github.com/user-attachments/assets/f6543ab4-c552-4fda-8938-230ebaca746f" />
+
 
 *   **The Goal:** A pharmacy chain was losing money due to expired medication. I built a system to track risk.
 *   **My Solution:** Created a Power BI dashboard with a "Loss Risk" indicator and Staff Heatmap.
