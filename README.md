@@ -85,8 +85,8 @@ GearX is a fully functional ERP solution designed to streamline inventory manage
 * Pandas
 
 ✅ Project completed and ready for further enhancements and deployment.
-* [🔗 **Click Here to View GearX ERP System**](https://github.com/Nouramabrouk/GearX-System)
 
+🔗 [View the Project: GearX System Repository](https://github.com/Nouramabrouk/GearX-System)
 
 ---
 [![Download CV](https://img.shields.io/badge/Resume-Download-0078D4?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://drive.google.com/file/d/1ziNaXhArw38wPOdjgXeqq2gEB-Ii7-s-/view?usp=drive_link)
