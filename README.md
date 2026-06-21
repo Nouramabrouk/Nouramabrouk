@@ -1,7 +1,7 @@
 # Hi there, I'm Noura Mabrouk! 👋
 ### 🚀 Operations Data Analyst & Business Developer
 
-I am an experienced **Operations Analyst ** transitioning into Data Analytics. I specialize in bridging the gap between business operations and data insights to improve efficiency and reduce waste.
+Operations Analyst transitioning into Data Analytics, passionate about transforming data into actionable business insights. Skilled in Python, SQL, Power BI, Tableau, and Excel, with a focus on process optimization, operational efficiency, and data-driven decision-making.
 
 ---
 
@@ -85,7 +85,8 @@ GearX is a fully functional ERP solution designed to streamline inventory manage
 * Pandas
 
 ✅ Project completed and ready for further enhancements and deployment.
-🔗 View the project: GearX System Repository
+* [🔗 **Click Here to View GearX ERP System**](https://github.com/Nouramabrouk/GearX-System)
+
 
 ---
 [![Download CV](https://img.shields.io/badge/Resume-Download-0078D4?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://drive.google.com/file/d/1ziNaXhArw38wPOdjgXeqq2gEB-Ii7-s-/view?usp=drive_link)
