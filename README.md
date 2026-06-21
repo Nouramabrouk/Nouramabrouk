@@ -60,14 +60,35 @@ using Excel Power Query.
 
   ---
   
-###  ⚙️ GearX: Business Data Structure (Conceptual)
-*   **The Goal:** Designing a relational database for a retail management system.
-*   **Concept:** Mapping relationships between Sales, Inventory, and Suppliers.
-*   *Project files coming soon...*
+###  ⚙️ GearX: Business Data Structure 
+
+**The Goal:** Develop a complete ERP system for spare parts and retail business management.
+
+**Project Overview:**
+GearX is a fully functional ERP solution designed to streamline inventory management, sales operations, treasury transactions, purchasing, customer and supplier management, and business analytics.
+
+**Key Features:**
+
+* Inventory & Stock Management
+* Sales & Invoicing System
+* Purchasing Management
+* Treasury & Cash Flow Tracking
+* Customer & Supplier Management
+* Interactive Business Dashboard
+* Reporting & Analytics
+
+**Technology Stack:**
+
+* Python
+* Streamlit
+* SQLite
+* Pandas
+
+✅ Project completed and ready for further enhancements and deployment.
+🔗 View the project: GearX System Repository
 
 ---
-[![Download CV][(https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)]( https://drive.google.com/file/d/1pozPFZiDsYyBOL_zLQUxNhho6Ral2aWd/view?usp=drive_link)](https://drive.google.com/file/d/1ziNaXhArw38wPOdjgXeqq2gEB-Ii7-s-/view?usp=drive_link)
-
+[![Download CV](https://img.shields.io/badge/Resume-Download-0078D4?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://drive.google.com/file/d/1ziNaXhArw38wPOdjgXeqq2gEB-Ii7-s-/view?usp=drive_link)
 
 ## 📫 Let's Connect
 *   [💼 My LinkedIn](www.linkedin.com/in/noura-mabrouk) 
