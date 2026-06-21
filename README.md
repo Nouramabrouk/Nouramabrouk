@@ -46,6 +46,17 @@ I am an experienced **Operations Analyst ** transitioning into Data Analytics. I
 
 *  [🔗 **Click Here to View Project**](https://github.com/Nouramabrouk/HR-Analytics-Power-BI-Dashboard/tree/main))
 
+---
+### 📊 Data Jobs Pulse: Egypt & Gulf Market Analysis
+<img width="991" height="767" alt="Data Jobs Pulse Dashboard" src="https://github.com/Nouramabrouk/Data-Jobs-Pulse-Egypt-Gulf/blob/main/Market%20overview.png" />
+
+* **The Goal:** Analyze 40 real Data Analyst job postings across Egypt & the Gulf 
+to uncover in-demand skills, salary benchmarks, and hiring trends across industries.
+* **My Solution:** Built a 3-page Power BI dashboard covering Market Overview, 
+Skills Analysis, and Salary & Experience — after cleaning raw messy data 
+using Excel Power Query.
+* **Tools:** Excel Power Query, Power BI, DAX.
+* [🔗 **Click Here to View Project**](https://github.com/Nouramabrouk/Data-Jobs-Pulse-Egypt-Gulf)
 
   ---
   
@@ -55,7 +66,7 @@ I am an experienced **Operations Analyst ** transitioning into Data Analytics. I
 *   *Project files coming soon...*
 
 ---
-[![Download CV](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)]( https://drive.google.com/file/d/1pozPFZiDsYyBOL_zLQUxNhho6Ral2aWd/view?usp=drive_link)
+[![Download CV][(https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)]( https://drive.google.com/file/d/1pozPFZiDsYyBOL_zLQUxNhho6Ral2aWd/view?usp=drive_link)](https://drive.google.com/file/d/1ziNaXhArw38wPOdjgXeqq2gEB-Ii7-s-/view?usp=drive_link)
 
 
 ## 📫 Let's Connect
